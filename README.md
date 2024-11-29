@@ -9,6 +9,11 @@ This project is a Go-based API that provides the current time in Toronto in JSON
 
 
 - **MySQL Database Integration**: Connect to a MySQL database and store the time data for each API request.
+
+- ![Screenshot (208)](https://github.com/user-attachments/assets/eebdb303-6306-447a-b7cc-25957bebaf12)
+
+
+- 
 - **Time Zone Handling**: Adjust the time returned to match Toronto’s timezone.
 - **Error Handling**: Properly handle errors related to database operations and time zone conversions.
 
